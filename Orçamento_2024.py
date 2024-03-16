@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_authenticator as stauth
 from pathlib import Path
 import pandas as pd
 from datetime import datetime, date
